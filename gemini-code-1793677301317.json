@@ -1,0 +1,15 @@
+{
+  "name": "aprova-professor-backend",
+  "version": "1.0.0",
+  "description": "Backend Node.js para o Assistente IA do Aprova Professor Conceição do Almeida 2026",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
